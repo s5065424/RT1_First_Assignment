@@ -19,6 +19,13 @@ Second node: (node1)
 ROS server: Service Server replies to the client with a random target
 
 
+downlode the package by using the link into workspace 
+
+https://github.com/s5065424/RT1_First_Assignment.git
+
+
+
+
 
 ##Run the simulator
 
