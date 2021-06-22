@@ -1,6 +1,6 @@
 # first_assignments
 
-Research_Track_first assignment   (alluri sai Krishna rama chander raju)(matricola 5060551)
+Research_Track_first assignment   (adapa surya prasanna rohit)(matricola 5065424)
 The assignment requires controlling a holonomic robot in a 2d space with a simple 2d simulator
 
 ### A brief description of the used Algorithm
